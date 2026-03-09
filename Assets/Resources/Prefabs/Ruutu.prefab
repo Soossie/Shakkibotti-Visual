@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 9023420878373492227}
   m_Layer: 0
   m_Name: Ruutu
-  m_TagString: Nappula
+  m_TagString: Ruutu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
